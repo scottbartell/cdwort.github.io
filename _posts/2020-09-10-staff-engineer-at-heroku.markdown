@@ -3,6 +3,7 @@ layout: post
 title:  "How I operated as a Staff engineer at Heroku"
 date:   2020-09-15 11:40:51 -0500
 categories: blog
+taxonomy: staff
 ---
 
 I was incredibly lucky to spend 5 amazing years at Heroku. By the end of my time, I was operating in a Staff capacity, although I'm honestly completely unclear which titles at Salesforce actually map to Staff.

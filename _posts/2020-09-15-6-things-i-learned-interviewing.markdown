@@ -3,6 +3,7 @@ layout: post
 title:  "6 things I learned interviewing for Staff positions"
 date:   2020-09-15 11:40:51 -0500
 categories: blog
+taxonomy: staff, interviewing
 ---
 I recently completed an either 9 month or 2 month search for a new job, looking for Staff-level positions for the first time in my career. I live-snarked much of the process on [Twitter](https://twitter.com/cdwort) and heard that was helpful to some folks who are also thinking about starting their first Staff-level search. Some reasons this blog post may not be interesting or ring true to you:
 
