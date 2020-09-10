@@ -22,6 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   ex-Getty Images 📸 | she & her
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/images/amy_orig_sm.png"
 
 footer_links:
   - title: Twitter
