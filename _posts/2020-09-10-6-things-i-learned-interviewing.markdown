@@ -12,9 +12,9 @@ I recently completed an either 9 month or 2 month search for a new job, looking 
 
 ## Everybody defines Staff differently
 
-Let's start with something as basic as titles. Is there a concept of Staff-level titles? Is "Staff" literally a title, but there are additional titles that comprise "Staff+" ranks? It's a mess.
+Let's start with something as basic as titles. Every new company I talked to meant diving into their levels. Is there a concept of Staff-level titles? Is "Staff" literally a title, but there are additional titles that comprise "Staff+" ranks? There's a ton of variation.
 
-Next, not only does each company have different assumptions about what Staff means, there are likely many variants of Staff-level work within a single company. Will Larson does a good job of outlining four different archetypes for Staff-roles, although these are more valid for small/mid-size companies. I took a shot at outlining archetypes at Salesforce (50k employees). It's likely that each company you talk to will have assumptions about what combination of skills they're hiring for and an inability to articulate them.
+Next, not only does each company have different assumptions about what Staff means, there are likely many variants of Staff-level work within a single company. Will Larson does a good job of outlining [four different archetypes](https://staffeng.com/guides/staff-archetypes) for Staff-roles, although these are more valid for small/mid-size companies. I took a shot at outlining [archetypes at Salesforce]() (50k employees). It's likely that each company you talk to will have assumptions about what combination of skills they're hiring for and an inability to articulate them.
 
 There are some basic questions you can ask to get a better sense of this without ruffling any feathers. You can ask if the role will involve writing production code or not. Does the role do any programming at all? If it's mostly prototype code, find someone in the role currently and ask how much time they've put into a recent prototype. You're looking for whether they talk about days, weeks or months? How much time will this role spend programming (production or prototype)? For the rest of the work, will the role be meeting heavy or writing heavy? What authority does the title provide and what is it expected that you build up as informal influence?
 
@@ -56,8 +56,12 @@ In addition to whether they hire out for a type of role, there's whether they'll
 
 ## There is a lot more Leetcode-style interviewing out there than you might expect
 
-* This totally depends on where you're coming from, but if you're coming from the part of tech that really cares about humane processes welcoming to diverse candidate pools, you may be a little surprised.
-* If you're like me and agree that leetcode-style interviews don't predict job performance, then you may be wondering "Why is this still the case?" What I've seen suggests that the applicant pool can be so strong that tons of false negatives are accepted as the cost of avoiding false positives. This unfortunately means that the most popular companies can have the shittiest interview processes and then lots of start ups will follow suit because "Pick-your-FAANG is doing that".
+This totally depends on where you're coming from, but if you're coming from the part of tech that really cares about humane processes welcoming to diverse candidate pools, you may be a little surprised.
+
+If you're like me and agree that leetcode-style interviews don't predict job performance, then you may be wondering "Why is this still the case?"
+
+What I've seen suggests that the applicant pool can be so strong that tons of false negatives are accepted as the cost of avoiding false positives. This unfortunately means that the most popular companies can have the shittiest interview processes and then lots of start ups will follow suit because "Pick-your-FAANG is doing it!".
+
   * For example, that "You must A+ a senior interview process" type interview above where I got docked for not demonstrating requirements gathering under pressure, I got a "Well, now that you know the interview process at $COMPANY, you'll be better able to ace your interview with another team". Accepting false-negatives (and even using weedout processes) is absolutely a thing.
 * That being said, consider interviewing at these places because 1) they're fascinating 2) the people are often lovely and kind 3) you may have your ass handed to you, but you'll learn about some cool stuff. If your ego can take it, I'd say it's worth it. 4) they're great competing offers.
   * One person found that by accepting leetstyle code interviews, they bumped their total compensation by 100k. Depending on where you're at, it may be more than that.
