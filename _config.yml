@@ -22,9 +22,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   ex-Getty Images 📸 | she/her
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: cdwort
-github_username:  cdwort
-linkedin_username: cdwort
+
+footer_links:
+  - title: Twitter
+    url: https://twitter.com/cdwort
+    icon: fab fa-twitter-square
+  - title: GitHub
+    url: https://github.com/cdwort
+    icon: fab fa-github-square
+  - title: LinkedIn
+    utl: https://linkedin.com/in/cdwort
+    icon: fab fa-linkedin-square
 
 # Build settings
 markdown: kramdown
