@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How I operated as a Staff engineer at Heroku"
-date:   2020-09-15 11:40:51 -0500
+date:   2020-09-10 11:40:51 -0500
 categories: blog
 taxonomy: staff
 ---
