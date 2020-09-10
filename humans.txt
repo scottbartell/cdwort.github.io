@@ -9,11 +9,8 @@ Location: USA
 /* THANKS */
 
 Github Pages
-HTML5 Muffin
-This is a Frappuccino Blog
-
 
 /* SITE */
 
-Last update: 2014/09
+Last update: 2020/09
 Components: Jekyll
