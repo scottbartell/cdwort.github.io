@@ -32,7 +32,7 @@ footer_links:
     icon: fab fa-github-square
   - title: LinkedIn
     utl: https://linkedin.com/in/cdwort
-    icon: fab fa-linkedin-square
+    icon: fab fa-linkedin-in-square
 
 # Build settings
 markdown: kramdown
